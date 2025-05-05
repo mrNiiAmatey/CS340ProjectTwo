@@ -1,7 +1,11 @@
 # CS340ProjectTwo
 
 Grazioso Salvare Animal Shelter Dashboard
+
+
 Overview
+
+
 Grazioso Salvare is an international rescue-animal training organization specializing in search-and-rescue missions. This repository provides a Python-based web application that manages animal data, enabling Grazioso Salvare to efficiently identify and categorize shelter animals suitable for rescue training.
 
 Technologies Used
